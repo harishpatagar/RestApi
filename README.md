@@ -6,7 +6,7 @@ Please refer the below steps to clone & run the project in minutes.
 
 1. Install VS Code & NodeJS
 2. Open VSCODE & Go to terminal and run the command
-   `git clone `
+   `git clone https://github.com/harishpatagar/RestApi.git`
 3. Move your terminal path to "nodejs-express-project"
    `cd nodejs-express-project`
 4. Install libraries
