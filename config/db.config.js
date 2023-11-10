@@ -5,8 +5,8 @@ const db = createPool({
   port: 3306,
   host: "127.0.0.1",
   user: "root",
-  password: "harish@4mk19cs015",
-  database: "restapi",
+  password: "password",
+  database: "Database",
   connectionLimit: 10,
 });
 
