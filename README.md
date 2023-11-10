@@ -17,4 +17,4 @@ Please refer the below steps to clone & run the project in minutes.
 
 # Output
 
-<img src="/output.gif" alt="swagger.png"/>
+<img src="/swagger.png" alt="swaggeroutput"/>
